@@ -1,7 +1,9 @@
 # 🚚 Bangladeshi Truck — Interactive 3D Highway Simulation
 > Built with **Three.js (WebGL)**, **GLSL Shaders**, and **Vite**.
-> Here Check the website here : truck-kun5.vercel.app
 
+
+---
+🎮 **[Try it live →](https://truck-kun5.vercel.app/)**
 ---
 
 ## 📖 Table of Contents
